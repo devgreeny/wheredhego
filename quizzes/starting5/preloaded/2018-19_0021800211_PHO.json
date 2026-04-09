@@ -1,0 +1,135 @@
+{
+  "season": "2018-19",
+  "game_id": "0021800211",
+  "team_abbr": "PHO",
+  "opponent_abbr": "SAS",
+  "matchup": "PHO vs SAS",
+  "game_date": "2018-11-14",
+  "players": [
+    {
+      "name": "Mikal Bridges",
+      "school": "Villanova",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "PHO",
+      "avatar": "01",
+      "conference": "Big East Conference",
+      "player_id": 1628969,
+      "position": "Guard-Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 8,
+        "ast": 0,
+        "reb": 2,
+        "stl": 0,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.095,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.083,
+        "defense_pct": 0.125
+      }
+    },
+    {
+      "name": "T.J. Warren",
+      "school": "NC State",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "PHO",
+      "avatar": "03",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 203933,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 27,
+        "ast": 2,
+        "reb": 4,
+        "stl": 3,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.321,
+        "assists_pct": 0.111,
+        "rebounds_pct": 0.167,
+        "defense_pct": 0.375
+      }
+    },
+    {
+      "name": "Deandre Ayton",
+      "school": "Arizona",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "PHO",
+      "avatar": "05",
+      "conference": "Big 12 Conference",
+      "player_id": 1629028,
+      "position": "Center",
+      "country": "Bahamas",
+      "game_stats": {
+        "pts": 17,
+        "ast": 3,
+        "reb": 10,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.202,
+        "assists_pct": 0.167,
+        "rebounds_pct": 0.417,
+        "defense_pct": 0.125
+      }
+    },
+    {
+      "name": "Devin Booker",
+      "school": "Kentucky",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "PHO",
+      "avatar": "08",
+      "conference": "Southeastern Conference",
+      "player_id": 1626164,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 13,
+        "ast": 12,
+        "reb": 4,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.155,
+        "assists_pct": 0.667,
+        "rebounds_pct": 0.167,
+        "defense_pct": 0.25
+      }
+    },
+    {
+      "name": "Isaiah Canaan",
+      "school": "Murray State",
+      "school_type": "College",
+      "spriteIndex": 7,
+      "team_abbrev": "PHO",
+      "avatar": "07",
+      "conference": "Missouri Valley Conference",
+      "player_id": 203477,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 19,
+        "ast": 1,
+        "reb": 4,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.226,
+        "assists_pct": 0.056,
+        "rebounds_pct": 0.167,
+        "defense_pct": 0.125
+      }
+    }
+  ]
+}

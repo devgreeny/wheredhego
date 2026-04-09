@@ -1,0 +1,135 @@
+{
+  "season": "2022-23",
+  "game_id": "0022200620",
+  "team_abbr": "ATL",
+  "opponent_abbr": "MIL",
+  "matchup": "ATL vs MIL",
+  "game_date": "2023-01-11",
+  "players": [
+    {
+      "name": "De'Andre Hunter",
+      "school": "Virginia",
+      "school_type": "College",
+      "spriteIndex": 12,
+      "team_abbrev": "ATL",
+      "avatar": "12",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 1629631,
+      "position": "Forward-Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 16,
+        "ast": 2,
+        "reb": 9,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.314,
+        "assists_pct": 0.125,
+        "rebounds_pct": 0.29,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "John Collins",
+      "school": "Wake Forest",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "ATL",
+      "avatar": "05",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 1628381,
+      "position": "Forward-Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 15,
+        "ast": 1,
+        "reb": 7,
+        "stl": 0,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.294,
+        "assists_pct": 0.062,
+        "rebounds_pct": 0.226,
+        "defense_pct": 0.2
+      }
+    },
+    {
+      "name": "Onyeka Okongwu",
+      "school": "USC",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "ATL",
+      "avatar": "08",
+      "conference": "Big Ten Conference",
+      "player_id": 1630168,
+      "position": "Forward-Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 7,
+        "ast": 5,
+        "reb": 9,
+        "stl": 0,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.137,
+        "assists_pct": 0.312,
+        "rebounds_pct": 0.29,
+        "defense_pct": 0.4
+      }
+    },
+    {
+      "name": "Aaron Holiday",
+      "school": "UCLA",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "ATL",
+      "avatar": "01",
+      "conference": "Big Ten Conference",
+      "player_id": 1628988,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 4,
+        "ast": 3,
+        "reb": 2,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.078,
+        "assists_pct": 0.188,
+        "rebounds_pct": 0.065,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Dejounte Murray",
+      "school": "Washington",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "ATL",
+      "avatar": "03",
+      "conference": "Big Ten Conference",
+      "player_id": 1627749,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 9,
+        "ast": 5,
+        "reb": 4,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.176,
+        "assists_pct": 0.312,
+        "rebounds_pct": 0.129,
+        "defense_pct": 0.4
+      }
+    }
+  ]
+}

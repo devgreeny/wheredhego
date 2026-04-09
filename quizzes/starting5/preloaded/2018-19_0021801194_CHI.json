@@ -1,0 +1,135 @@
+{
+  "season": "2018-19",
+  "game_id": "0021801194",
+  "team_abbr": "CHI",
+  "opponent_abbr": "PHI",
+  "matchup": "CHI vs PHI",
+  "game_date": "2019-04-06",
+  "players": [
+    {
+      "name": "Shaquille Harrison",
+      "school": "Tulsa",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "CHI",
+      "avatar": "08",
+      "conference": "American Athletic Conference",
+      "player_id": 1627885,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 8,
+        "ast": 2,
+        "reb": 0,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.229,
+        "assists_pct": 0.143,
+        "rebounds_pct": 0.0,
+        "defense_pct": 0.333
+      }
+    },
+    {
+      "name": "Wayne Selden",
+      "school": "Kansas",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "CHI",
+      "avatar": "01",
+      "conference": "Big 12 Conference",
+      "player_id": 1627782,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 4,
+        "ast": 3,
+        "reb": 2,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.114,
+        "assists_pct": 0.214,
+        "rebounds_pct": 0.118,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Robin Lopez",
+      "school": "Stanford",
+      "school_type": "College",
+      "spriteIndex": 9,
+      "team_abbrev": "CHI",
+      "avatar": "09",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201577,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 8,
+        "ast": 2,
+        "reb": 3,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.229,
+        "assists_pct": 0.143,
+        "rebounds_pct": 0.176,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Rawle Alkins",
+      "school": "Arizona",
+      "school_type": "College",
+      "spriteIndex": 12,
+      "team_abbrev": "CHI",
+      "avatar": "12",
+      "conference": "Big 12 Conference",
+      "player_id": 1628959,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 7,
+        "ast": 2,
+        "reb": 4,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.2,
+        "assists_pct": 0.143,
+        "rebounds_pct": 0.235,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Walt Lemon Jr.",
+      "school": "Bradley",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "CHI",
+      "avatar": "05",
+      "conference": "Missouri Valley Conference",
+      "player_id": 1627215,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 8,
+        "ast": 5,
+        "reb": 8,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.229,
+        "assists_pct": 0.357,
+        "rebounds_pct": 0.471,
+        "defense_pct": 0.667
+      }
+    }
+  ]
+}

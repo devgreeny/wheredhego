@@ -1,0 +1,135 @@
+{
+  "season": "2010-11",
+  "game_id": "0021000670",
+  "team_abbr": "PHI",
+  "opponent_abbr": "TOR",
+  "matchup": "TOR vs PHI",
+  "game_date": "2011-01-26",
+  "players": [
+    {
+      "name": "Andre Iguodala",
+      "school": "Arizona",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "PHI",
+      "avatar": "01",
+      "conference": "Big 12 Conference",
+      "player_id": 2738,
+      "position": "Guard-Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 15,
+        "ast": 6,
+        "reb": 5,
+        "stl": 3,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.306,
+        "assists_pct": 0.273,
+        "rebounds_pct": 0.208,
+        "defense_pct": 0.333
+      }
+    },
+    {
+      "name": "Elton Brand",
+      "school": "Duke",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "PHI",
+      "avatar": "05",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 1882,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 14,
+        "ast": 0,
+        "reb": 7,
+        "stl": 1,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.286,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.292,
+        "defense_pct": 0.222
+      }
+    },
+    {
+      "name": "Spencer Hawes",
+      "school": "Washington",
+      "school_type": "College",
+      "spriteIndex": 9,
+      "team_abbrev": "PHI",
+      "avatar": "09",
+      "conference": "Big Ten Conference",
+      "player_id": 201150,
+      "position": "Forward-Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 3,
+        "ast": 4,
+        "reb": 6,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.061,
+        "assists_pct": 0.182,
+        "rebounds_pct": 0.25,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Jodie Meeks",
+      "school": "Kentucky",
+      "school_type": "College",
+      "spriteIndex": 13,
+      "team_abbrev": "PHI",
+      "avatar": "13",
+      "conference": "Southeastern Conference",
+      "player_id": 201975,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 2,
+        "ast": 1,
+        "reb": 1,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.041,
+        "assists_pct": 0.045,
+        "rebounds_pct": 0.042,
+        "defense_pct": 0.111
+      }
+    },
+    {
+      "name": "Jrue Holiday",
+      "school": "UCLA",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "PHI",
+      "avatar": "03",
+      "conference": "Big Ten Conference",
+      "player_id": 201950,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 15,
+        "ast": 11,
+        "reb": 5,
+        "stl": 1,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.306,
+        "assists_pct": 0.5,
+        "rebounds_pct": 0.208,
+        "defense_pct": 0.333
+      }
+    }
+  ]
+}

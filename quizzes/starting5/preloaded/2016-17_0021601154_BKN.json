@@ -1,0 +1,135 @@
+{
+  "season": "2016-17",
+  "game_id": "0021601154",
+  "team_abbr": "BKN",
+  "opponent_abbr": "PHI",
+  "matchup": "PHI vs BKN",
+  "game_date": "2017-04-04",
+  "players": [
+    {
+      "name": "Caris LeVert",
+      "school": "Michigan",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "BKN",
+      "avatar": "05",
+      "conference": "Big Ten Conference",
+      "player_id": 1627747,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 7,
+        "ast": 7,
+        "reb": 4,
+        "stl": 1,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.111,
+        "assists_pct": 0.368,
+        "rebounds_pct": 0.211,
+        "defense_pct": 0.222
+      }
+    },
+    {
+      "name": "Rondae Hollis-Jefferson",
+      "school": "Arizona",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "BKN",
+      "avatar": "01",
+      "conference": "Big 12 Conference",
+      "player_id": 1626178,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 12,
+        "ast": 2,
+        "reb": 3,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.19,
+        "assists_pct": 0.105,
+        "rebounds_pct": 0.158,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Brook Lopez",
+      "school": "Stanford",
+      "school_type": "College",
+      "spriteIndex": 11,
+      "team_abbrev": "BKN",
+      "avatar": "11",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201572,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 16,
+        "ast": 1,
+        "reb": 4,
+        "stl": 0,
+        "blk": 3
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.254,
+        "assists_pct": 0.053,
+        "rebounds_pct": 0.211,
+        "defense_pct": 0.333
+      }
+    },
+    {
+      "name": "Randy Foye",
+      "school": "Villanova",
+      "school_type": "College",
+      "spriteIndex": 7,
+      "team_abbrev": "BKN",
+      "avatar": "07",
+      "conference": "Big East Conference",
+      "player_id": 200751,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 12,
+        "ast": 2,
+        "reb": 3,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.19,
+        "assists_pct": 0.105,
+        "rebounds_pct": 0.158,
+        "defense_pct": 0.222
+      }
+    },
+    {
+      "name": "Jeremy Lin",
+      "school": "Harvard",
+      "school_type": "College",
+      "spriteIndex": 2,
+      "team_abbrev": "BKN",
+      "avatar": "02",
+      "conference": "Ivy League",
+      "player_id": 202391,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 16,
+        "ast": 7,
+        "reb": 5,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.254,
+        "assists_pct": 0.368,
+        "rebounds_pct": 0.263,
+        "defense_pct": 0.222
+      }
+    }
+  ]
+}

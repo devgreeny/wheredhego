@@ -1,0 +1,135 @@
+{
+  "season": "2016-17",
+  "game_id": "0021601089",
+  "team_abbr": "LAC",
+  "opponent_abbr": "SAC",
+  "matchup": "LAC vs SAC",
+  "game_date": "2017-03-26",
+  "players": [
+    {
+      "name": "Luc Mbah a Moute",
+      "school": "UCLA",
+      "school_type": "College",
+      "spriteIndex": 7,
+      "team_abbrev": "LAC",
+      "avatar": "07",
+      "conference": "Big Ten Conference",
+      "player_id": 201601,
+      "position": "Forward",
+      "country": "Cameroon",
+      "game_stats": {
+        "pts": 5,
+        "ast": 0,
+        "reb": 1,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.072,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.032,
+        "defense_pct": 0.167
+      }
+    },
+    {
+      "name": "Blake Griffin",
+      "school": "Oklahoma",
+      "school_type": "College",
+      "spriteIndex": 6,
+      "team_abbrev": "LAC",
+      "avatar": "06",
+      "conference": "Southeastern Conference",
+      "player_id": 201933,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 17,
+        "ast": 4,
+        "reb": 6,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.246,
+        "assists_pct": 0.235,
+        "rebounds_pct": 0.194,
+        "defense_pct": 0.167
+      }
+    },
+    {
+      "name": "DeAndre Jordan",
+      "school": "Texas A&M–Corpus Christi",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "LAC",
+      "avatar": "05",
+      "conference": "Southland Conference",
+      "player_id": 201599,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 20,
+        "ast": 0,
+        "reb": 11,
+        "stl": 1,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.29,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.355,
+        "defense_pct": 0.333
+      }
+    },
+    {
+      "name": "Austin Rivers",
+      "school": "Duke",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "LAC",
+      "avatar": "01",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 203085,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 10,
+        "ast": 4,
+        "reb": 9,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.145,
+        "assists_pct": 0.235,
+        "rebounds_pct": 0.29,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Chris Paul",
+      "school": "Wake Forest",
+      "school_type": "College",
+      "spriteIndex": 13,
+      "team_abbrev": "LAC",
+      "avatar": "13",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 101108,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 17,
+        "ast": 9,
+        "reb": 4,
+        "stl": 1,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.246,
+        "assists_pct": 0.529,
+        "rebounds_pct": 0.129,
+        "defense_pct": 0.333
+      }
+    }
+  ]
+}

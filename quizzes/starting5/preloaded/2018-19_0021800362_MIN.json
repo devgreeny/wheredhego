@@ -1,0 +1,135 @@
+{
+  "season": "2018-19",
+  "game_id": "0021800362",
+  "team_abbr": "MIN",
+  "opponent_abbr": "CHA",
+  "matchup": "MIN vs CHA",
+  "game_date": "2018-12-05",
+  "players": [
+    {
+      "name": "Robert Covington",
+      "school": "Tennessee State",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "MIN",
+      "avatar": "01",
+      "conference": "Ohio Valley Conference",
+      "player_id": 203496,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 17,
+        "ast": 1,
+        "reb": 6,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.185,
+        "assists_pct": 0.036,
+        "rebounds_pct": 0.167,
+        "defense_pct": 0.188
+      }
+    },
+    {
+      "name": "Taj Gibson",
+      "school": "USC",
+      "school_type": "College",
+      "spriteIndex": 4,
+      "team_abbrev": "MIN",
+      "avatar": "04",
+      "conference": "Big Ten Conference",
+      "player_id": 201959,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 11,
+        "ast": 1,
+        "reb": 10,
+        "stl": 0,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.12,
+        "assists_pct": 0.036,
+        "rebounds_pct": 0.278,
+        "defense_pct": 0.062
+      }
+    },
+    {
+      "name": "Karl-Anthony Towns",
+      "school": "Kentucky",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "MIN",
+      "avatar": "03",
+      "conference": "Southeastern Conference",
+      "player_id": 1626157,
+      "position": "Center-Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 35,
+        "ast": 3,
+        "reb": 12,
+        "stl": 2,
+        "blk": 6
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.38,
+        "assists_pct": 0.107,
+        "rebounds_pct": 0.333,
+        "defense_pct": 0.5
+      }
+    },
+    {
+      "name": "Andrew Wiggins",
+      "school": "Kansas",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "MIN",
+      "avatar": "08",
+      "conference": "Big 12 Conference",
+      "player_id": 203952,
+      "position": "Forward",
+      "country": "Canada",
+      "game_stats": {
+        "pts": 26,
+        "ast": 5,
+        "reb": 6,
+        "stl": 0,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.283,
+        "assists_pct": 0.179,
+        "rebounds_pct": 0.167,
+        "defense_pct": 0.062
+      }
+    },
+    {
+      "name": "Jeff Teague",
+      "school": "Wake Forest",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "MIN",
+      "avatar": "05",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201952,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 3,
+        "ast": 18,
+        "reb": 2,
+        "stl": 1,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.033,
+        "assists_pct": 0.643,
+        "rebounds_pct": 0.056,
+        "defense_pct": 0.188
+      }
+    }
+  ]
+}

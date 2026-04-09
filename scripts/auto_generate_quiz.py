@@ -27,6 +27,9 @@ from datetime import datetime
 from typing import Optional, Tuple, Dict, List
 
 import pandas as pd
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONFIGURATION
@@ -606,8 +609,8 @@ def generate_nba_quiz(count: int = 1) -> int:
     from nba_api.stats.static import players
     from nba_api.stats.endpoints import (
         leaguegamelog,
-        boxscoretraditionalv2,
-        boxscoresummaryv2,
+        boxscoretraditionalv3,
+        boxscoresummaryv3,
         commonplayerinfo
     )
     
@@ -638,43 +641,44 @@ def generate_nba_quiz(count: int = 1) -> int:
             for game_id in game_ids[:20]:  # Try up to 20 games per season
                 try:
                     time.sleep(0.8)
-                    box = boxscoretraditionalv2.BoxScoreTraditionalV2(game_id=game_id)
+                    box = boxscoretraditionalv3.BoxScoreTraditionalV3(game_id=game_id)
                     df = box.get_data_frames()[0]
-                    starters = df[df["START_POSITION"].notna() & (df["START_POSITION"] != "")]
+                    df["PLAYER_NAME"] = df["firstName"] + " " + df["familyName"]
+                    starters = df[df["position"].notna() & (df["position"] != "")]
                     
-                    if len(starters["TEAM_ID"].unique()) < 2:
+                    if len(starters["teamId"].unique()) < 2:
                         continue
                     
-                    summary = boxscoresummaryv2.BoxScoreSummaryV2(game_id=game_id)
-                    header = summary.get_data_frames()[0].iloc[0]
-                    home_id, away_id = header["HOME_TEAM_ID"], header["VISITOR_TEAM_ID"]
-                    home_abbr_raw = df[df["TEAM_ID"] == home_id]["TEAM_ABBREVIATION"].iloc[0]
-                    away_abbr_raw = df[df["TEAM_ID"] == away_id]["TEAM_ABBREVIATION"].iloc[0]
+                    summary = boxscoresummaryv3.BoxScoreSummaryV3(game_id=game_id)
+                    game_info = summary.get_data_frames()[0].iloc[0]
+                    home_id, away_id = game_info["homeTeamId"], game_info["awayTeamId"]
+                    home_abbr_raw = df[df["teamId"] == home_id]["teamTricode"].iloc[0]
+                    away_abbr_raw = df[df["teamId"] == away_id]["teamTricode"].iloc[0]
                     
                     # Normalize team abbreviations to match avatar directories
                     home_abbr = normalize_team_abbrev(home_abbr_raw)
                     away_abbr = normalize_team_abbrev(away_abbr_raw)
                     
-                    game_date = header.get("GAME_DATE_EST") or header.get("GAME_DATE")
+                    game_date_raw = game_info.get("gameEt") or game_info.get("gameTimeUTC")
                     try:
-                        game_date = pd.to_datetime(game_date).date().strftime("%Y-%m-%d")
+                        game_date = pd.to_datetime(game_date_raw).date().strftime("%Y-%m-%d")
                     except:
-                        game_date = str(game_date)
+                        game_date = str(game_date_raw)
                     
                     # Try each team
                     for team_id in [home_id, away_id]:
-                        team_starters = starters[starters["TEAM_ID"] == team_id].head(5)
+                        team_starters = starters[starters["teamId"] == team_id].head(5)
                         if len(team_starters) < 5:
                             continue
                         
-                        team_abbr_raw = team_starters["TEAM_ABBREVIATION"].iloc[0]
+                        team_abbr_raw = team_starters["teamTricode"].iloc[0]
                         team_abbr = normalize_team_abbrev(team_abbr_raw)
                         opp_abbr = away_abbr if team_id == home_id else home_abbr
                         
-                        t_pts = team_starters["PTS"].sum()
-                        t_ast = team_starters["AST"].sum()
-                        t_reb = team_starters["REB"].sum()
-                        t_def = team_starters["STL"].sum() + team_starters["BLK"].sum()
+                        t_pts = team_starters["points"].sum()
+                        t_ast = team_starters["assists"].sum()
+                        t_reb = team_starters["reboundsTotal"].sum()
+                        t_def = team_starters["steals"].sum() + team_starters["blocks"].sum()
                         
                         # Check all players have valid colleges
                         player_rows = []
@@ -757,11 +761,11 @@ def generate_nba_quiz(count: int = 1) -> int:
                                 avatar = get_ai_avatar_selection(name, team_abbr, is_nba=True, player_id=pr["player_id"], used_avatars=used_avatars)
                                 used_avatars.add(avatar)  # Mark as used
                             
-                            pts = row["PTS"]
-                            ast = row["AST"]
-                            reb = row["REB"]
-                            stl = row["STL"]
-                            blk = row["BLK"]
+                            pts = row["points"]
+                            ast = row["assists"]
+                            reb = row["reboundsTotal"]
+                            stl = row["steals"]
+                            blk = row["blocks"]
                             
                             quiz["players"].append({
                                 "name": name,
