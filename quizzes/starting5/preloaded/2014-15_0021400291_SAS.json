@@ -1,0 +1,135 @@
+{
+  "season": "2014-15",
+  "game_id": "0021400291",
+  "team_abbr": "SAS",
+  "opponent_abbr": "MIN",
+  "matchup": "SAS vs MIN",
+  "game_date": "2014-12-06",
+  "players": [
+    {
+      "name": "Kawhi Leonard",
+      "school": "San Diego State",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "SAS",
+      "avatar": "03",
+      "conference": "Mountain West Conference",
+      "player_id": 202695,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 18,
+        "ast": 4,
+        "reb": 3,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.257,
+        "assists_pct": 0.222,
+        "rebounds_pct": 0.115,
+        "defense_pct": 0.143
+      }
+    },
+    {
+      "name": "Tim Duncan",
+      "school": "Wake Forest",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "SAS",
+      "avatar": "01",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 1495,
+      "position": "Center-Forward",
+      "country": "US Virgin Islands",
+      "game_stats": {
+        "pts": 13,
+        "ast": 5,
+        "reb": 10,
+        "stl": 0,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.186,
+        "assists_pct": 0.278,
+        "rebounds_pct": 0.385,
+        "defense_pct": 0.286
+      }
+    },
+    {
+      "name": "Matt Bonner",
+      "school": "Florida",
+      "school_type": "College",
+      "spriteIndex": 6,
+      "team_abbrev": "SAS",
+      "avatar": "06",
+      "conference": "Southeastern Conference",
+      "player_id": 2588,
+      "position": "Center-Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 10,
+        "ast": 1,
+        "reb": 1,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.143,
+        "assists_pct": 0.056,
+        "rebounds_pct": 0.038,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Danny Green",
+      "school": "North Carolina",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "SAS",
+      "avatar": "05",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201980,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 11,
+        "ast": 3,
+        "reb": 8,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.157,
+        "assists_pct": 0.167,
+        "rebounds_pct": 0.308,
+        "defense_pct": 0.429
+      }
+    },
+    {
+      "name": "Cory Joseph",
+      "school": "Texas",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "SAS",
+      "avatar": "08",
+      "conference": "Southeastern Conference",
+      "player_id": 202709,
+      "position": "Guard",
+      "country": "Canada",
+      "game_stats": {
+        "pts": 18,
+        "ast": 5,
+        "reb": 4,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.257,
+        "assists_pct": 0.278,
+        "rebounds_pct": 0.154,
+        "defense_pct": 0.143
+      }
+    }
+  ]
+}

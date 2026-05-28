@@ -1,0 +1,135 @@
+{
+  "season": "2014-15",
+  "game_id": "0021401131",
+  "team_abbr": "DET",
+  "opponent_abbr": "CHI",
+  "matchup": "CHI vs DET",
+  "game_date": "2015-04-03",
+  "players": [
+    {
+      "name": "Caron Butler",
+      "school": "UConn",
+      "school_type": "College",
+      "spriteIndex": 13,
+      "team_abbrev": "DET",
+      "avatar": "13",
+      "conference": "Big East Conference",
+      "player_id": 2406,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 5,
+        "ast": 2,
+        "reb": 2,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.078,
+        "assists_pct": 0.182,
+        "rebounds_pct": 0.059,
+        "defense_pct": 0.188
+      }
+    },
+    {
+      "name": "Anthony Tolliver",
+      "school": "Creighton",
+      "school_type": "College",
+      "spriteIndex": 4,
+      "team_abbrev": "DET",
+      "avatar": "04",
+      "conference": "Big East Conference",
+      "player_id": 201229,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 9,
+        "ast": 0,
+        "reb": 7,
+        "stl": 1,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.141,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.206,
+        "defense_pct": 0.125
+      }
+    },
+    {
+      "name": "Andre Drummond",
+      "school": "UConn",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "DET",
+      "avatar": "01",
+      "conference": "Big East Conference",
+      "player_id": 203083,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 14,
+        "ast": 0,
+        "reb": 22,
+        "stl": 0,
+        "blk": 6
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.219,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.647,
+        "defense_pct": 0.375
+      }
+    },
+    {
+      "name": "Kentavious Caldwell-Pope",
+      "school": "Georgia",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "DET",
+      "avatar": "05",
+      "conference": "Southeastern Conference",
+      "player_id": 203484,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 14,
+        "ast": 0,
+        "reb": 1,
+        "stl": 3,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.219,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.029,
+        "defense_pct": 0.188
+      }
+    },
+    {
+      "name": "Reggie Jackson",
+      "school": "Boston College",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "DET",
+      "avatar": "03",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 202704,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 22,
+        "ast": 9,
+        "reb": 2,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.344,
+        "assists_pct": 0.818,
+        "rebounds_pct": 0.059,
+        "defense_pct": 0.125
+      }
+    }
+  ]
+}

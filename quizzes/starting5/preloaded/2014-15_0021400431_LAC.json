@@ -1,0 +1,135 @@
+{
+  "season": "2014-15",
+  "game_id": "0021400431",
+  "team_abbr": "LAC",
+  "opponent_abbr": "GSW",
+  "matchup": "LAC vs GSW",
+  "game_date": "2014-12-25",
+  "players": [
+    {
+      "name": "Matt Barnes",
+      "school": "UCLA",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "LAC",
+      "avatar": "05",
+      "conference": "Big Ten Conference",
+      "player_id": 2440,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 7,
+        "ast": 0,
+        "reb": 6,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.097,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.146,
+        "defense_pct": 0.273
+      }
+    },
+    {
+      "name": "Blake Griffin",
+      "school": "Oklahoma",
+      "school_type": "College",
+      "spriteIndex": 6,
+      "team_abbrev": "LAC",
+      "avatar": "06",
+      "conference": "Southeastern Conference",
+      "player_id": 201933,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 18,
+        "ast": 6,
+        "reb": 15,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.25,
+        "assists_pct": 0.462,
+        "rebounds_pct": 0.366,
+        "defense_pct": 0.273
+      }
+    },
+    {
+      "name": "DeAndre Jordan",
+      "school": "Texas A&M–Corpus Christi",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "LAC",
+      "avatar": "01",
+      "conference": "Southland Conference",
+      "player_id": 201599,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 14,
+        "ast": 0,
+        "reb": 12,
+        "stl": 0,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.194,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.293,
+        "defense_pct": 0.182
+      }
+    },
+    {
+      "name": "JJ Redick",
+      "school": "Duke",
+      "school_type": "College",
+      "spriteIndex": 11,
+      "team_abbrev": "LAC",
+      "avatar": "11",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 200755,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 11,
+        "ast": 3,
+        "reb": 1,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.153,
+        "assists_pct": 0.231,
+        "rebounds_pct": 0.024,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Chris Paul",
+      "school": "Wake Forest",
+      "school_type": "College",
+      "spriteIndex": 13,
+      "team_abbrev": "LAC",
+      "avatar": "13",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 101108,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 22,
+        "ast": 4,
+        "reb": 7,
+        "stl": 3,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.306,
+        "assists_pct": 0.308,
+        "rebounds_pct": 0.171,
+        "defense_pct": 0.273
+      }
+    }
+  ]
+}

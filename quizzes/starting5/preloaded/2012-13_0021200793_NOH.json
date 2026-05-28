@@ -1,0 +1,135 @@
+{
+  "season": "2012-13",
+  "game_id": "0021200793",
+  "team_abbr": "NOH",
+  "opponent_abbr": "CHI",
+  "matchup": "NOH vs CHI",
+  "game_date": "2013-02-19",
+  "players": [
+    {
+      "name": "Al-Farouq Aminu",
+      "school": "Wake Forest",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "NOH",
+      "avatar": "01",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 202329,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 10,
+        "ast": 1,
+        "reb": 7,
+        "stl": 3,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.175,
+        "assists_pct": 0.062,
+        "rebounds_pct": 0.28,
+        "defense_pct": 0.417
+      }
+    },
+    {
+      "name": "Anthony Davis",
+      "school": "Kentucky",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "NOH",
+      "avatar": "03",
+      "conference": "Southeastern Conference",
+      "player_id": 203076,
+      "position": "Forward-Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 15,
+        "ast": 3,
+        "reb": 10,
+        "stl": 4,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.263,
+        "assists_pct": 0.188,
+        "rebounds_pct": 0.4,
+        "defense_pct": 0.417
+      }
+    },
+    {
+      "name": "Robin Lopez",
+      "school": "Stanford",
+      "school_type": "College",
+      "spriteIndex": 9,
+      "team_abbrev": "NOH",
+      "avatar": "09",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201577,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 1,
+        "ast": 1,
+        "reb": 4,
+        "stl": 0,
+        "blk": 2
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.018,
+        "assists_pct": 0.062,
+        "rebounds_pct": 0.16,
+        "defense_pct": 0.167
+      }
+    },
+    {
+      "name": "Eric Gordon",
+      "school": "Indiana",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "NOH",
+      "avatar": "05",
+      "conference": "Big Ten Conference",
+      "player_id": 201569,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 20,
+        "ast": 1,
+        "reb": 2,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.351,
+        "assists_pct": 0.062,
+        "rebounds_pct": 0.08,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Greivis Vasquez",
+      "school": "Maryland",
+      "school_type": "College",
+      "spriteIndex": 7,
+      "team_abbrev": "NOH",
+      "avatar": "07",
+      "conference": "Big Ten Conference",
+      "player_id": 202349,
+      "position": "Guard",
+      "country": "Venezuela",
+      "game_stats": {
+        "pts": 11,
+        "ast": 10,
+        "reb": 2,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.193,
+        "assists_pct": 0.625,
+        "rebounds_pct": 0.08,
+        "defense_pct": 0.0
+      }
+    }
+  ]
+}

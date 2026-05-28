@@ -1,0 +1,135 @@
+{
+  "season": "2012-13",
+  "game_id": "0021201167",
+  "team_abbr": "CLE",
+  "opponent_abbr": "DET",
+  "matchup": "CLE vs DET",
+  "game_date": "2013-04-10",
+  "players": [
+    {
+      "name": "Alonzo Gee",
+      "school": "Alabama",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "CLE",
+      "avatar": "01",
+      "conference": "Southeastern Conference",
+      "player_id": 202087,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 4,
+        "ast": 0,
+        "reb": 2,
+        "stl": 0,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.06,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.087,
+        "defense_pct": 0.143
+      }
+    },
+    {
+      "name": "Tristan Thompson",
+      "school": "Texas",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "CLE",
+      "avatar": "03",
+      "conference": "Southeastern Conference",
+      "player_id": 202684,
+      "position": "Center-Forward",
+      "country": "Canada",
+      "game_stats": {
+        "pts": 19,
+        "ast": 1,
+        "reb": 8,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.284,
+        "assists_pct": 0.091,
+        "rebounds_pct": 0.348,
+        "defense_pct": 0.429
+      }
+    },
+    {
+      "name": "Tyler Zeller",
+      "school": "North Carolina",
+      "school_type": "College",
+      "spriteIndex": 6,
+      "team_abbrev": "CLE",
+      "avatar": "06",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 203092,
+      "position": "Forward-Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 8,
+        "ast": 1,
+        "reb": 5,
+        "stl": 0,
+        "blk": 3
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.119,
+        "assists_pct": 0.091,
+        "rebounds_pct": 0.217,
+        "defense_pct": 0.429
+      }
+    },
+    {
+      "name": "Wayne Ellington",
+      "school": "North Carolina",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "CLE",
+      "avatar": "05",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201961,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 9,
+        "ast": 0,
+        "reb": 5,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.134,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.217,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Kyrie Irving",
+      "school": "Duke",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "CLE",
+      "avatar": "08",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 202681,
+      "position": "Guard",
+      "country": "Australia",
+      "game_stats": {
+        "pts": 27,
+        "ast": 9,
+        "reb": 3,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.403,
+        "assists_pct": 0.818,
+        "rebounds_pct": 0.13,
+        "defense_pct": 0.0
+      }
+    }
+  ]
+}

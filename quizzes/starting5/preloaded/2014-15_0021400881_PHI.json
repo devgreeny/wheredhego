@@ -1,0 +1,135 @@
+{
+  "season": "2014-15",
+  "game_id": "0021400881",
+  "team_abbr": "PHI",
+  "opponent_abbr": "IND",
+  "matchup": "IND vs PHI",
+  "game_date": "2015-03-01",
+  "players": [
+    {
+      "name": "Robert Covington",
+      "school": "Tennessee State",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "PHI",
+      "avatar": "01",
+      "conference": "Ohio Valley Conference",
+      "player_id": 203496,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 12,
+        "ast": 0,
+        "reb": 3,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.293,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.13,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Luc Mbah a Moute",
+      "school": "UCLA",
+      "school_type": "College",
+      "spriteIndex": 3,
+      "team_abbrev": "PHI",
+      "avatar": "03",
+      "conference": "Big Ten Conference",
+      "player_id": 201601,
+      "position": "Forward",
+      "country": "Cameroon",
+      "game_stats": {
+        "pts": 4,
+        "ast": 0,
+        "reb": 3,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.098,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.13,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Nerlens Noel",
+      "school": "Kentucky",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "PHI",
+      "avatar": "05",
+      "conference": "Southeastern Conference",
+      "player_id": 203457,
+      "position": "Center-Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 10,
+        "ast": 1,
+        "reb": 12,
+        "stl": 1,
+        "blk": 3
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.244,
+        "assists_pct": 0.5,
+        "rebounds_pct": 0.522,
+        "defense_pct": 0.444
+      }
+    },
+    {
+      "name": "Jason Richardson",
+      "school": "Michigan State",
+      "school_type": "College",
+      "spriteIndex": 13,
+      "team_abbrev": "PHI",
+      "avatar": "13",
+      "conference": "Big Ten Conference",
+      "player_id": 2202,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 10,
+        "ast": 0,
+        "reb": 3,
+        "stl": 2,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.244,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.13,
+        "defense_pct": 0.222
+      }
+    },
+    {
+      "name": "Isaiah Canaan",
+      "school": "Murray State",
+      "school_type": "College",
+      "spriteIndex": 8,
+      "team_abbrev": "PHI",
+      "avatar": "08",
+      "conference": "Missouri Valley Conference",
+      "player_id": 203477,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 5,
+        "ast": 1,
+        "reb": 2,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.122,
+        "assists_pct": 0.5,
+        "rebounds_pct": 0.087,
+        "defense_pct": 0.333
+      }
+    }
+  ]
+}

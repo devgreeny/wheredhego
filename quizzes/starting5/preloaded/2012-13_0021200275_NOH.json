@@ -1,0 +1,135 @@
+{
+  "season": "2012-13",
+  "game_id": "0021200275",
+  "team_abbr": "NOH",
+  "opponent_abbr": "MEM",
+  "matchup": "NOH vs MEM",
+  "game_date": "2012-12-07",
+  "players": [
+    {
+      "name": "Xavier Henry",
+      "school": "Kansas",
+      "school_type": "College",
+      "spriteIndex": 13,
+      "team_abbrev": "NOH",
+      "avatar": "13",
+      "conference": "Big 12 Conference",
+      "player_id": 202333,
+      "position": "Forward-Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 12,
+        "ast": 0,
+        "reb": 3,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.293,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.231,
+        "defense_pct": 0.143
+      }
+    },
+    {
+      "name": "Ryan Anderson",
+      "school": "California",
+      "school_type": "College",
+      "spriteIndex": 6,
+      "team_abbrev": "NOH",
+      "avatar": "06",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201583,
+      "position": "Forward",
+      "country": "USA",
+      "game_stats": {
+        "pts": 15,
+        "ast": 0,
+        "reb": 2,
+        "stl": 0,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.366,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.154,
+        "defense_pct": 0.0
+      }
+    },
+    {
+      "name": "Robin Lopez",
+      "school": "Stanford",
+      "school_type": "College",
+      "spriteIndex": 9,
+      "team_abbrev": "NOH",
+      "avatar": "09",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 201577,
+      "position": "Center",
+      "country": "USA",
+      "game_stats": {
+        "pts": 2,
+        "ast": 0,
+        "reb": 3,
+        "stl": 1,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.049,
+        "assists_pct": 0.0,
+        "rebounds_pct": 0.231,
+        "defense_pct": 0.286
+      }
+    },
+    {
+      "name": "Roger Mason Jr.",
+      "school": "Virginia",
+      "school_type": "College",
+      "spriteIndex": 1,
+      "team_abbrev": "NOH",
+      "avatar": "01",
+      "conference": "Atlantic Coast Conference",
+      "player_id": 2427,
+      "position": "Guard",
+      "country": "USA",
+      "game_stats": {
+        "pts": 8,
+        "ast": 2,
+        "reb": 2,
+        "stl": 1,
+        "blk": 0
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.195,
+        "assists_pct": 0.2,
+        "rebounds_pct": 0.154,
+        "defense_pct": 0.143
+      }
+    },
+    {
+      "name": "Greivis Vasquez",
+      "school": "Maryland",
+      "school_type": "College",
+      "spriteIndex": 5,
+      "team_abbrev": "NOH",
+      "avatar": "05",
+      "conference": "Big Ten Conference",
+      "player_id": 202349,
+      "position": "Guard",
+      "country": "Venezuela",
+      "game_stats": {
+        "pts": 4,
+        "ast": 8,
+        "reb": 3,
+        "stl": 2,
+        "blk": 1
+      },
+      "game_contribution_pct": {
+        "points_pct": 0.098,
+        "assists_pct": 0.8,
+        "rebounds_pct": 0.231,
+        "defense_pct": 0.429
+      }
+    }
+  ]
+}
