@@ -545,6 +545,22 @@
   </div>
 
   <script>
+    // Reset all animation state. Runs on bfcache restore (back button) so the
+    // cartridges don't stay frozen in their post-insert positions.
+    function resetCartridges() {
+      document.querySelectorAll('.cartridge').forEach(c => {
+        c.classList.remove('inserting', 'from-left', 'from-right', 'from-center', 'shift-left', 'shift-right');
+      });
+      const crtInner = document.querySelector('.crt-inner');
+      if (crtInner) crtInner.classList.remove('flash');
+      const slot = document.querySelector('.console-slot-center');
+      if (slot) slot.classList.remove('show');
+    }
+
+    window.addEventListener('pageshow', function(e) {
+      if (e.persisted) resetCartridges();
+    });
+
     document.querySelectorAll('.cartridge').forEach(cartridge => {
       cartridge.addEventListener('click', function(e) {
         e.preventDefault();
